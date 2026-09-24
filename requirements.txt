@@ -1,0 +1,6 @@
+streamlit>=1.30
+torch
+transformers>=4.36
+sentencepiece
+pymupdf
+numpy
